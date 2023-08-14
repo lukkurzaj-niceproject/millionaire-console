@@ -1,4 +1,4 @@
-# Who Wants to Be a Millionaire in Console
+# Kto chce zostać milionerem w konsoli?
 
 Written in Python 2.7
 
