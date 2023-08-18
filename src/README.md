@@ -1,4 +1,4 @@
-# Kto chce zostać milionerem w konsoli?
+# Kto chce zostać milionerem ale w pythonie 2.7!
 
 Written in Python 2.7
 
